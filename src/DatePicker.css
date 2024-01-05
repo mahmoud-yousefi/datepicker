@@ -1,0 +1,9 @@
+.date-picker-container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+  }
+  
+  .highlighted-day {
+    background-color: lightblue;
+  }
