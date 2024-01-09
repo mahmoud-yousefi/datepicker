@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/datepicker/static/css/main.4653a2c6.css",
-    "main.js": "/datepicker/static/js/main.62a8068b.js",
+    "main.css": "/datepicker/static/css/main.8acdd85f.css",
+    "main.js": "/datepicker/static/js/main.0ad5aa7e.js",
     "index.html": "/datepicker/index.html",
-    "main.4653a2c6.css.map": "/datepicker/static/css/main.4653a2c6.css.map",
-    "main.62a8068b.js.map": "/datepicker/static/js/main.62a8068b.js.map"
+    "main.8acdd85f.css.map": "/datepicker/static/css/main.8acdd85f.css.map",
+    "main.0ad5aa7e.js.map": "/datepicker/static/js/main.0ad5aa7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4653a2c6.css",
-    "static/js/main.62a8068b.js"
+    "static/css/main.8acdd85f.css",
+    "static/js/main.0ad5aa7e.js"
   ]
 }
